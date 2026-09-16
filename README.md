@@ -1,4 +1,5 @@
 # gestao_agil
 Repositório de Gestão Ágil
-##Usuários
+## Usuários
 1. raphaellc
+2. raphalc
