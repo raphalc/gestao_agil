@@ -2,7 +2,7 @@
 
 ## 1.1 Problema
 <!-- Qual problema real este projeto resolve? Para quem? -->
-
+CRM - Costumer Relationship Management
 
 ## 1.2 Solução Proposta
 <!-- Como o software resolve esse problema? Em poucas frases. -->
